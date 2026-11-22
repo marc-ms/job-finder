@@ -1,0 +1,49 @@
+search_queries:
+  es:
+    - "traductor ingles"
+    - "copywriter"
+    - "redactor de contenidos"
+    - "corrector de estilo"
+    - "localizacion"
+    - "linguista"
+  en:
+    - "spanish translator"
+    - "spanish copywriter"
+    - "spanish localization"
+    - "spanish content writer"
+    - "computational linguist junior"
+    - "linguistic qa spanish"
+
+locations:
+  local_priority:
+    - "Palma de Mallorca"
+    - "Mallorca"
+    - "Islas Baleares"
+  allow_remote: true
+
+prefilter_exclude_title_keywords:
+  - "senior"
+  - "sr."
+  - "lead"
+  - "head of"
+  - "director"
+  - "vp "
+  - "principal"
+  - "staff "
+  - "comercial puerta fria"
+  - "teleoperador"
+  - "conductor"
+  - "camarero"
+  - "cocinero"
+  - "enfermero"
+  - "medico"
+  - "arquitecto de software"
+  - "devops"
+
+prefilter_exclude_languages_in_title:
+  - "german native"
+  - "french native"
+  - "italian native"
+  - "dutch native"
+  - "aleman nativo"
+  - "frances nativo"
